@@ -1,0 +1,1 @@
+yuying.py和camera1.py必须保存在与dog_client.py相同的路径下，他们作为dog_client.py的调用文件供dog_client.py调用。

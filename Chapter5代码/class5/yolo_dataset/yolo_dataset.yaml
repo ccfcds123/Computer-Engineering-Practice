@@ -1,0 +1,19 @@
+# 数据集配置文件（关键：路径和类别要对应）
+path: C:\Users\cc\Desktop\Study\大学\计算机工程实践\Chapter5代码\class5\yolo_dataset  # 划分后的数据集根目录（绝对路径/相对路径都可以）
+train: C:\Users\cc\Desktop\Study\大学\计算机工程实践\Chapter5代码\class5\yolo_dataset\images\train       # 训练集图片路径（相对于path）
+val: C:\Users\cc\Desktop\Study\大学\计算机工程实践\Chapter5代码\class5\yolo_dataset\images\val            # 验证集图片路径
+
+names:
+  0: low
+  1: normal
+  2: higher
+  3: three
+  4: six
+  5: No helmet
+  6: helmet
+  7: B
+  8: D
+  9: A
+  10: C
+
+ 
