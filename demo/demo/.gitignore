@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.avi
+*.mp4
+.DS_Store
